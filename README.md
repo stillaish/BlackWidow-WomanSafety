@@ -76,6 +76,21 @@ Women’s safety needs **speed, reliability, and intelligence**. Black Widow is 
 - 🔐 Firebase Admin SDK
 
 ---
+## 📸 Screenshots
+
+### 🏠 Auth
+![Auth](screenshots/Auth.png)
+
+### 🚨 Emergency Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Incident Report 
+![AI](screenshots/ReportIncident.png)
+
+### Cyber Harassment Guide
+![Contacts](screenshots/CyberHarassmentGuide.png)
+
+---
 
 ## 🚀 Deployment
 
