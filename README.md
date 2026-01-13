@@ -123,7 +123,7 @@ This project is a **prototype / educational safety platform** and should **not**
 
 ---
 
-## 👨‍💻 Developer
+<!--## 👨‍💻 Developer
 
 **Aish Maheshwari**  
 🎓 B.Tech CSE (2023–2027)  
@@ -132,7 +132,7 @@ This project is a **prototype / educational safety platform** and should **not**
 🔗 LinkedIn: https://www.linkedin.com/in/aishmaheshwari15/
 
 ---
-
+-->
 ## ⭐ If You Like This Project
 
 Give it a **STAR ⭐** — it motivates me to build more impactful tech! 🚀
